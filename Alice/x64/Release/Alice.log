@@ -1,0 +1,10 @@
+﻿  AliceDlg.cpp
+c:\users\administrator\desktop\alice\alice\alicedlg.cpp(860): warning C4244: “初始化”: 从“LRESULT”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\alice\alice\alicedlg.cpp(1125): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+  正在生成代码
+  1 of 696 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Alice.vcxproj -> C:\Users\Administrator\Desktop\Alice\x64\Release\Alice.exe
